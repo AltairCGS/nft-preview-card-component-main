@@ -29,13 +29,13 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/order-summary-component-zt25ytoUXy](https://www.frontendmentor.io/solutions/order-summary-component-zt25ytoUXy)
-- Live Site URL: [https://altaircgs.github.io/order-summary-component-main/](https://altaircgs.github.io/order-summary-component-main/)
+- Live Site URL: [https://www.frontendmentor.io/solutions/nft-preview-card-component-Gfok2qd-9o](https://www.frontendmentor.io/solutions/nft-preview-card-component-Gfok2qd-9o)
 
 ## My process
 
 ### Built with
 
-- Semantic HTML5 markup
+- Semantic HTML5 markup :p
 - CSS custom properties
 - Flexbox
 - Responsive design
