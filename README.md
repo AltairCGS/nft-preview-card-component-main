@@ -28,14 +28,14 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/order-summary-component-zt25ytoUXy](https://www.frontendmentor.io/solutions/order-summary-component-zt25ytoUXy)
-- Live Site URL: [https://www.frontendmentor.io/solutions/nft-preview-card-component-Gfok2qd-9o](https://www.frontendmentor.io/solutions/nft-preview-card-component-Gfok2qd-9o)
+- Solution URL: [https://www.frontendmentor.io/solutions/nft-preview-card-component-Gfok2qd-9o](https://www.frontendmentor.io/solutions/nft-preview-card-component-Gfok2qd-9o)
+- Live Site URL: [https://altaircgs.github.io/nft-preview-card-component-main/](https://altaircgs.github.io/nft-preview-card-component-main/)
 
 ## My process
 
 ### Built with
 
-- Semantic HTML5 markup :p
+- Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 - Responsive design
